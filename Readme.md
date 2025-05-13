@@ -1,4 +1,4 @@
-# Analizador de Texto
+## Analizador de Texto
 
 Aplicación web en PHP para analizar textos y obtener estadísticas de palabras, ignorando símbolos y stopwords.
 
