@@ -2,7 +2,7 @@
 
 Aplicación web en PHP para analizar textos y obtener estadísticas de palabras, ignorando símbolos y stopwords.
 
-## Requisitos
+##  Requisitos
 - PHP 7+
 - Servidor web local (XAMPP, WAMP, etc.)
 

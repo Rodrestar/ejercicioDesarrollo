@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function analyzeText() {
     //Obtener el texto del input
-    const textInput = document.getElementById('text-input');
-    const text = textInput.value;
+    const  textInput = document.getElementById('text-input');
+    const  text = textInput.value;
 
     //Enviar el texto al backend usando fetch
     fetch('../php/analyze.php', {
